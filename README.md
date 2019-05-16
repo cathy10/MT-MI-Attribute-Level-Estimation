@@ -2,7 +2,7 @@
 Matlab files for the MT/MI attribute level estimation of ACBC survey paper. Research 2019.
 
 ## MT/MI Attribute Level Estimation in the Paper Submitted to JOCM ##
-This repository includes the files used to engerate the results and graphs in the paper <i> Estimation of Most Typical/Most Ideal Attribute Levels in a Small Population ACBC Survey of Disaster Relief Organizations </i>
+This repository includes the files used to generate the results and graphs in the paper <i> Estimation of Most Typical/Most Ideal Attribute Levels in a Small Population ACBC Survey of Disaster Relief Organizations </i>
 
 <ul style="list-style-type:square;">
   <li> [Excel file] count for FBO and NGO feasible sets.xlsx</li>
